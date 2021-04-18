@@ -1,0 +1,167 @@
+malloc successfully! Startadd:00000000000213E0 
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 1024,Relative address: 0
+====================================================================
+Please input your instruction.
+f for free (need paramater: size and address).
+m for malloc (need paramater: size).
+q for quit.
+h for help .
+malloc successfully!
+Absolute address:00000000000213E0 Relative address:0
+====================================================================
+Free space:
+Absolute address: 0000000000021444,Size: 924,Relative address: 100
+====================================================================
+The size cannot be 0!
+fail to malloc!
+====================================================================
+Free space:
+Absolute address: 0000000000021444,Size: 924,Relative address: 100
+====================================================================
+space is not enough!
+fail to malloc!
+====================================================================
+Free space:
+Absolute address: 0000000000021444,Size: 924,Relative address: 100
+====================================================================
+malloc successfully!
+Absolute address:0000000000021444 Relative address:100
+No space left!
+free successfully!
+====================================================================
+Free space:
+Absolute address: 0000000000021444,Size: 100,Relative address: 100
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 0000000000021444,Size: 100,Relative address: 100
+Absolute address: 00000000000215D4,Size: 100,Relative address: 500
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 0000000000021444,Size: 100,Relative address: 100
+Absolute address: 00000000000215D4,Size: 100,Relative address: 500
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 000000000002142B,Size: 125,Relative address: 75
+Absolute address: 00000000000215D4,Size: 100,Relative address: 500
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 000000000002142B,Size: 125,Relative address: 75
+Absolute address: 00000000000215D4,Size: 200,Relative address: 500
+====================================================================
+malloc successfully!
+Absolute address:000000000002142B Relative address:75
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 0000000000021444,Size: 100,Relative address: 100
+Absolute address: 00000000000215D4,Size: 200,Relative address: 500
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 0000000000021444,Size: 150,Relative address: 100
+Absolute address: 00000000000215D4,Size: 200,Relative address: 500
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 0000000000021444,Size: 150,Relative address: 100
+Absolute address: 00000000000215A2,Size: 250,Relative address: 450
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 0000000000021444,Size: 150,Relative address: 100
+Absolute address: 000000000002150C,Size: 50,Relative address: 300
+Absolute address: 00000000000215A2,Size: 250,Relative address: 450
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 0000000000021444,Size: 150,Relative address: 100
+Absolute address: 000000000002150C,Size: 400,Relative address: 300
+====================================================================
+malloc successfully!
+Absolute address:000000000002150C Relative address:300
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 25,Relative address: 0
+Absolute address: 0000000000021444,Size: 150,Relative address: 100
+Absolute address: 0000000000021525,Size: 375,Relative address: 325
+====================================================================
+malloc successfully!
+Absolute address:00000000000213E0 Relative address:0
+====================================================================
+Free space:
+Absolute address: 00000000000213EA,Size: 15,Relative address: 10
+Absolute address: 0000000000021444,Size: 150,Relative address: 100
+Absolute address: 0000000000021525,Size: 375,Relative address: 325
+====================================================================
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213EA,Size: 15,Relative address: 10
+Absolute address: 0000000000021444,Size: 200,Relative address: 100
+Absolute address: 0000000000021525,Size: 375,Relative address: 325
+====================================================================
+malloc successfully!
+Absolute address:0000000000021444 Relative address:100
+====================================================================
+Free space:
+Absolute address: 00000000000213EA,Size: 15,Relative address: 10
+Absolute address: 0000000000021453,Size: 185,Relative address: 115
+Absolute address: 0000000000021525,Size: 375,Relative address: 325
+====================================================================
+malloc successfully!
+Absolute address:0000000000021525 Relative address:325
+====================================================================
+Free space:
+Absolute address: 00000000000213EA,Size: 15,Relative address: 10
+Absolute address: 0000000000021453,Size: 185,Relative address: 115
+====================================================================
+malloc successfully!
+Absolute address:00000000000213EA Relative address:10
+====================================================================
+Free space:
+Absolute address: 00000000000213EF,Size: 10,Relative address: 15
+Absolute address: 0000000000021453,Size: 185,Relative address: 115
+====================================================================
+malloc successfully!
+Absolute address:0000000000021453 Relative address:115
+====================================================================
+Free space:
+Absolute address: 00000000000213EF,Size: 10,Relative address: 15
+Absolute address: 0000000000021476,Size: 150,Relative address: 150
+====================================================================
+malloc successfully!
+Absolute address:00000000000213EF Relative address:15
+====================================================================
+Free space:
+Absolute address: 0000000000021476,Size: 150,Relative address: 150
+====================================================================
+malloc successfully!
+Absolute address:0000000000021476 Relative address:150
+No space left!
+free successfully!
+====================================================================
+Free space:
+Absolute address: 00000000000213E0,Size: 1024,Relative address: 0
+====================================================================
+Goodbye!
