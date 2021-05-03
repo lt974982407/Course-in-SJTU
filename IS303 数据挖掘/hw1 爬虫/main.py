@@ -75,13 +75,13 @@ def main():
                 for item in restmp :
                     res.append(item)
             break
-        with open("res.csv", "w", newline="", encoding='utf-8-sig') as datacsv:
-            # dialect为打开csv文件的方式，默认是excel，delimiter="\t"参数指写入的时候的分隔符
-            csvwriter = csv.writer(datacsv, dialect=("excel"))
-            # 把数据写入csv文件
-            csvwriter.writerow(["影片名称", "导演", "编剧", "主演", "简介", "评分", "获奖情况"])
-            for i in res:
-                csvwriter.writerow(i)
+    with open("res.csv", "w", newline="", encoding='utf-8-sig') as datacsv:
+        # dialect为打开csv文件的方式，默认是excel，delimiter="\t"参数指写入的时候的分隔符
+        csvwriter = csv.writer(datacsv, dialect=("excel"))
+        # 把数据写入csv文件
+        csvwriter.writerow(["影片名称", "导演", "编剧", "主演", "简介", "评分", "获奖情况"])
+        for i in res:
+            csvwriter.writerow(i)
 
 def login ():
     driver = webdriver.Chrome('E:\chromedriver_win32\chromedriver.exe')
